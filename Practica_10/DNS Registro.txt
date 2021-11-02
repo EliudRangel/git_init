@@ -1,0 +1,336 @@
+C:\Users\Roberto Rangel>ipconfig /displaydns
+
+Configuración IP de Windows
+
+    www.bing.com
+    ----------------------------------------
+    Nombre de registro  . : www.bing.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0001.a-afdentry.net.trafficmanager.net
+
+
+    Nombre de registro  . : a-0001.a-afdentry.net.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www-bing-com.dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : www-bing-com.dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.21.200
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.200
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.40.86
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.46.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.22
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.45.86
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.35.214
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.45.54
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.54
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.1.246
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.115.119
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.113.119
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.32.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.32.182
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.182
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.32.214
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.32.246
+
+
+    scontent.xx.fbcdn.net
+    ----------------------------------------
+    Nombre de registro  . : scontent.xx.fbcdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 157.240.25.13
+
+
+    static.xx.fbcdn.net
+    ----------------------------------------
+    Nombre de registro  . : static.xx.fbcdn.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 55
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : scontent.xx.fbcdn.net
+
+
+    Nombre de registro  . : scontent.xx.fbcdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 157.240.25.13
+
+
+    aefd.nelreports.net
+    ----------------------------------------
+    Nombre de registro  . : aefd.nelreports.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 16
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : aefd.nelreports.net.akamaized.net
+
+
+    Nombre de registro  . : aefd.nelreports.net.akamaized.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 16
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a1851.dscg2.akamai.net
+
+
+    Nombre de registro  . : a1851.dscg2.akamai.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 16
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 201.172.192.65
+
+
+    Nombre de registro  . : a1851.dscg2.akamai.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 16
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 201.172.192.80
+
+
+    scontent.fmty1-1.fna.fbcdn.net
+    ----------------------------------------
+    Nombre de registro  . : scontent.fmty1-1.fna.fbcdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 12
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 201.173.124.145
+
+
+    gateway.facebook.com
+    ----------------------------------------
+    Nombre de registro  . : gateway.facebook.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 58
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : msgr-latest.c10r.facebook.com
+
+
+    Nombre de registro  . : msgr-latest.c10r.facebook.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 58
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 157.240.25.17
+
+
+    browser.events.data.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : browser.events.data.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : browser.events.data.trafficmanager.net
+
+
+    Nombre de registro  . : browser.events.data.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : onedscolprdcus12.centralus.cloudapp.azure.com
+
+
+    Nombre de registro  . : onedscolprdcus12.centralus.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.89.179.10
+
+
+    www.google.com.mx
+    ----------------------------------------
+    Nombre de registro  . : www.google.com.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 135
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.33.3
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1063
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1063
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    edge-chat.facebook.com
+    ----------------------------------------
+    Nombre de registro  . : edge-chat.facebook.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : star.c10r.facebook.com
+
+
+    Nombre de registro  . : star.c10r.facebook.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 157.240.25.1
